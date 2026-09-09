@@ -719,26 +719,26 @@ const IMAGE_MAP = {
     "publicId": "sukku_coffee",
     "file": "https://res.cloudinary.com/nv10e8u3/image/upload/v1787920180/Sukku_Coffe.png"
   },
-  "Ferrero Nutella Bento Cake": {
-    "publicId": "ferrero_nutella_cake",
-    "file": "https://res.cloudinary.com/lgwou4eo/image/upload/v1787920967/Ferrero_Nutella_Cake.png"
-  },
-  "Red Velvet Cream Cheese Bento Cake": {
-    "publicId": "red_velvet_shake",
-    "file": "https://res.cloudinary.com/nv10e8u3/image/upload/v1787920204/RedVelvetShake.png"
-  },
-  "Chocolate Truffle Bento Cake": {
-    "publicId": "opera_cake",
-    "file": "https://res.cloudinary.com/nv10e8u3/image/upload/v1787920221/Opera_Cake.png"
-  },
-  "Lotus Biscoff Bento Cake": {
-    "publicId": "lotus_biscoff_cake",
-    "file": "https://res.cloudinary.com/nv10e8u3/image/upload/v1787920198/Lotus_Biscoff_Cake.png"
-  },
-  "Mango Passion Bento Cake": {
-    "publicId": "russian_honey_cake",
-    "file": "https://res.cloudinary.com/nv10e8u3/image/upload/v1787920175/Russian_Honey_Cake.png"
-  }
+  // "Ferrero Nutella Bento Cake": {
+  //   "publicId": "ferrero_nutella_cake",
+  //   "file": "https://res.cloudinary.com/lgwou4eo/image/upload/v1787920967/Ferrero_Nutella_Cake.png"
+  // },
+  // "Red Velvet Cream Cheese Bento Cake": {
+  //   "publicId": "red_velvet_shake",
+  //   "file": "https://res.cloudinary.com/nv10e8u3/image/upload/v1787920204/RedVelvetShake.png"
+  // },
+  // "Chocolate Truffle Bento Cake": {
+  //   "publicId": "opera_cake",
+  //   "file": "https://res.cloudinary.com/nv10e8u3/image/upload/v1787920221/Opera_Cake.png"
+  // },
+  // "Lotus Biscoff Bento Cake": {
+  // //   "publicId": "lotus_biscoff_cake",
+  //   "file": "https://res.cloudinary.com/nv10e8u3/image/upload/v1787920198/Lotus_Biscoff_Cake.png"
+  // },
+  // "Mango Passion Bento Cake": {
+  //   "publicId": "russian_honey_cake",
+  //   "file": "https://res.cloudinary.com/nv10e8u3/image/upload/v1787920175/Russian_Honey_Cake.png"
+  // }
 };
 
 /**

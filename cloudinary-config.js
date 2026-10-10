@@ -33,31 +33,31 @@ const CLOUDINARY_CONFIG = {
 const IMAGE_MAP = {
   "White Tea": {
     "publicId": "white_tea",
-    "file": "https://res.cloudinary.com/nv10e8u3/image/upload/v1787920198/whitw_tea.png"
+    "file": "images/whitw tea.png"
   },
   "Kothumai Nattu Sakkarai Cake": {
     "publicId": "kothumai_nattu_sakkarai_cake",
-    "file": "https://res.cloudinary.com/lgwou4eo/image/upload/v1787920973/kothumai_nattu_sakkarai_cake.png"
+    "file": "images/kothumai nattu sakkarai cake.png"
   },
   "Mushroom Fritters": {
     "publicId": "mushroom_fritters",
-    "file": "https://res.cloudinary.com/nv10e8u3/image/upload/v1787920213/mushroom_fritters.png"
+    "file": "images/mushroom fritters.png"
   },
   "OG Rose Milk": {
     "publicId": "og_rose_milk",
-    "file": "https://res.cloudinary.com/nv10e8u3/image/upload/v1787920218/og_rose_milk.png"
+    "file": "images/og rose milk.png"
   },
   "OG Badham Milk": {
     "publicId": "og_badham_milk",
-    "file": "https://res.cloudinary.com/nv10e8u3/image/upload/v1787986503/og_Batham_milk.png"
+    "file": "images/Badam Milk (hot.png"
   },
   "Paneer Fingers": {
     "publicId": "paneer_fingers",
-    "file": "https://res.cloudinary.com/nv10e8u3/image/upload/v1787920232/panner_fingers.png"
+    "file": "images/panner fingers.png"
   },
   "Karuppatti Laddu (Per Kg)": {
     "publicId": "karuppatti_laddu",
-    "file": "https://res.cloudinary.com/lgwou4eo/image/upload/v1787920972/karuppatti_laddu.png"
+    "file": "images/karuppatti laddu.png"
   },
   "Coconut Opputtu": {
     "publicId": "coconut_opputtu",
